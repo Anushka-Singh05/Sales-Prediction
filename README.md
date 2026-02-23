@@ -4,7 +4,7 @@
 ## 📌 Project Overview
 This project focuses on predicting product sales based on advertising budgets across different channels — **TV, Radio, and Newspaper**.
 
-The objective is to analyze the dataset, perform exploratory data analysis (EDA), train multiple machine learning models, compare their performance, and determine the best predictive model.
+The objective is to analyze the dataset, perform exploratory data analysis (EDA), train multiple machine learning models, compare their performance,and determine the best predictive model.
 
 ---
 
